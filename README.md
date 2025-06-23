@@ -23,7 +23,7 @@ A powerful multi-agent system that helps users discover, understand, and interac
 
 | Title | Summary | Citation | Paper ID |
 |-------|---------|----------|----------|
-| Deep Explainability in AI | A 100-word summary using LLaMA 3... | IEEE-style citation using Gemini... | `2305.12345` |
+| Deep Explainability in AI | A summary using ... | IEEE-style citation using Gemini... | `2305.12345` |
 
 Users can then ask:
 > “Explain the 2nd paper”  
