@@ -46,5 +46,6 @@ Users can then ask:
 
 ```bash
 pip install crewai langchain langchain-groq feedparser python-dotenv pandas tqdm arxiv pypdf sentence-transformers faiss-cpu
-
+```
 Thank you to arXiv for use of its open access interoperability.
+
