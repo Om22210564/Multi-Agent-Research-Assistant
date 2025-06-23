@@ -1,7 +1,7 @@
 
 # 🧠 Multi-Agent Research Assistant using arXiv, RAG, Groq 
 
-A powerful multi-agent system that helps users discover, understand, and interact with cutting-edge research papers from arXiv. The assistant supports paper search, LLM-based summarization, APA citation generation, and a Retrieval-Augmented Generation (RAG) pipeline to answer detailed questions about specific papers.
+A powerful multi-agent system that helps users discover, understand, and interact with cutting-edge research papers from arXiv. The assistant supports paper search, LLM-based summarization, IEEE citation generation, and a Retrieval-Augmented Generation (RAG) pipeline to answer detailed questions about specific papers.
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
 ![LangChain](https://img.shields.io/badge/LangChain-Enabled-yellow)
@@ -23,7 +23,7 @@ A powerful multi-agent system that helps users discover, understand, and interac
 
 | Title | Summary | Citation | Paper ID |
 |-------|---------|----------|----------|
-| Deep Explainability in AI | A 100-word summary using LLaMA 3... | APA-style citation using Gemini... | `2305.12345` |
+| Deep Explainability in AI | A 100-word summary using LLaMA 3... | IEEE-style citation using Gemini... | `2305.12345` |
 
 Users can then ask:
 > “Explain the 2nd paper”  
